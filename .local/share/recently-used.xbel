@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/alex/Untitled-1.c" added="2024-09-09T12:27:29.591000Z" modified="2024-09-09T12:27:29.591000Z" visited="2024-09-09T12:27:29.591000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-09T12:27:29.591000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/C1.c" added="2024-09-09T12:28:12.514000Z" modified="2024-09-09T12:28:12.514000Z" visited="2024-09-09T12:28:12.514000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-09T12:28:12.514000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Hello_me.c" added="2024-09-09T13:25:05.829000Z" modified="2024-09-09T13:25:05.829000Z" visited="2024-09-09T13:25:05.829000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-09T13:25:05.829000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://mate-calc.desktop" added="2024-09-25T16:35:23.904000Z" modified="2024-09-25T16:35:23.904000Z" visited="2024-09-25T16:35:23.904000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2024-09-25T16:35:23.904000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://duckduckgo.com/?q=konxol&amp;t=kde" added="2024-10-10T14:48:27.402000Z" modified="2024-10-10T14:48:27.402000Z" visited="2024-10-10T14:48:27.402000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-10-10T14:48:27.402000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,10 @@
+
+main(){
+FILE *fd;
+
+char buffer[100];
+fd = fopen("bonjour2.txt","W");
+fwrite("bonjour2.txt","Bonjour";
+fd = fclose;
+}
+

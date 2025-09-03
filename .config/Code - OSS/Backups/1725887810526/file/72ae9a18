@@ -1,0 +1,13 @@
+file:///home/alex/Documents/Hello_me.c {"mtime":1725888306011,"ctime":1725888305981,"size":119,"etag":"3d1eqcg9d3q","orphaned":false,"typeId":""}
+#include <stdio.h>
+
+ main(){
+    char nom[30];
+    printf("Quel est ton nom\n");
+    scanf("%s" , &nom );
+    printf("Votre nom %s" , &nom);
+   
+    
+    return 0;     
+
+ }
