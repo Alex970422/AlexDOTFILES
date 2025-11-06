@@ -14,14 +14,14 @@
 ~Msle0~/\<mess\>
 
 # Command Line History (newest to oldest):
+:q
+|2,0,1762406210,,"q"
+:wq
+|2,0,1762406197,,"wq"
 :wqa!
 |2,0,1762268086,,"wqa!"
-:wq
-|2,0,1762268016,,"wq"
 :Wq
 |2,0,1762268015,,"Wq"
-:q
-|2,0,1762267931,,"q"
 :w
 |2,0,1762226243,,"w"
 :qw
@@ -118,32 +118,56 @@
 |3,0,36,0,1,0,1761604890,"X"
 
 # File marks:
-'0  8  0  ~/tests/demoCsize/code2.py
-|4,48,8,0,1762268086,"~/tests/demoCsize/code2.py"
-'1  1  0  ~/tests/demoCsize/code2.py
-|4,49,1,0,1762268016,"~/tests/demoCsize/code2.py"
-'2  1  0  ~/tests/demoCsize/code2.py
-|4,50,1,0,1762268016,"~/tests/demoCsize/code2.py"
-'3  2  0  ~/tests/demoCsize/code2.py
-|4,51,2,0,1762267961,"~/tests/demoCsize/code2.py"
-'4  2  0  ~/tests/demoCsize/code2.py
-|4,52,2,0,1762267961,"~/tests/demoCsize/code2.py"
+'0  18  42  ~/.git/COMMIT_EDITMSG
+|4,48,18,42,1762406210,"~/.git/COMMIT_EDITMSG"
+'1  1  4  ~/.git/COMMIT_EDITMSG
+|4,49,1,4,1762406197,"~/.git/COMMIT_EDITMSG"
+'2  1  4  ~/.git/COMMIT_EDITMSG
+|4,50,1,4,1762406197,"~/.git/COMMIT_EDITMSG"
+'3  8  0  ~/tests/demoCsize/code2.py
+|4,51,8,0,1762268086,"~/tests/demoCsize/code2.py"
+'4  1  0  ~/tests/demoCsize/code2.py
+|4,52,1,0,1762268016,"~/tests/demoCsize/code2.py"
 '5  1  0  ~/tests/demoCsize/code2.py
-|4,53,1,0,1762267936,"~/tests/demoCsize/code2.py"
+|4,53,1,0,1762268016,"~/tests/demoCsize/code2.py"
 '6  2  0  ~/tests/demoCsize/code2.py
-|4,54,2,0,1762267936,"~/tests/demoCsize/code2.py"
-'7  1  0  ~/tests/demoCsize/code2.py
-|4,55,1,0,1762267936,"~/tests/demoCsize/code2.py"
-'8  2  0  ~/tests/demoCsize/code2.py
-|4,56,2,0,1762267936,"~/tests/demoCsize/code2.py"
-'9  1  2  ~/tests/demoCsize/code2.py
-|4,57,1,2,1762267912,"~/tests/demoCsize/code2.py"
+|4,54,2,0,1762267961,"~/tests/demoCsize/code2.py"
+'7  2  0  ~/tests/demoCsize/code2.py
+|4,55,2,0,1762267961,"~/tests/demoCsize/code2.py"
+'8  1  0  ~/tests/demoCsize/code2.py
+|4,56,1,0,1762267936,"~/tests/demoCsize/code2.py"
+'9  2  0  ~/tests/demoCsize/code2.py
+|4,57,2,0,1762267936,"~/tests/demoCsize/code2.py"
 
 # Jumplist (newest first):
+-'  18  42  ~/.git/COMMIT_EDITMSG
+|4,39,18,42,1762406210,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1762406209,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/.git/COMMIT_EDITMSG
+|4,39,1,4,1762406197,"~/.git/COMMIT_EDITMSG"
+-'  8  0  ~/tests/demoCsize/code2.py
+|4,39,8,0,1762268086,"~/tests/demoCsize/code2.py"
+-'  8  0  ~/tests/demoCsize/code2.py
+|4,39,8,0,1762268086,"~/tests/demoCsize/code2.py"
+-'  8  0  ~/tests/demoCsize/code2.py
+|4,39,8,0,1762268086,"~/tests/demoCsize/code2.py"
 -'  8  0  ~/tests/demoCsize/code2.py
 |4,39,8,0,1762268086,"~/tests/demoCsize/code2.py"
 -'  1  0  ~/tests/demoCsize/code2.py
 |4,39,1,0,1762268060,"~/tests/demoCsize/code2.py"
+-'  1  0  ~/tests/demoCsize/code2.py
+|4,39,1,0,1762268060,"~/tests/demoCsize/code2.py"
+-'  1  0  ~/tests/demoCsize/code2.py
+|4,39,1,0,1762268060,"~/tests/demoCsize/code2.py"
+-'  1  0  ~/tests/demoCsize/code2.py
+|4,39,1,0,1762268060,"~/tests/demoCsize/code2.py"
+-'  1  0  ~/tests/demoCsize/code2.py
+|4,39,1,0,1762268016,"~/tests/demoCsize/code2.py"
+-'  1  0  ~/tests/demoCsize/code2.py
+|4,39,1,0,1762268016,"~/tests/demoCsize/code2.py"
+-'  1  0  ~/tests/demoCsize/code2.py
+|4,39,1,0,1762268016,"~/tests/demoCsize/code2.py"
 -'  1  0  ~/tests/demoCsize/code2.py
 |4,39,1,0,1762268016,"~/tests/demoCsize/code2.py"
 -'  2  0  ~/tests/demoCsize/code2.py
@@ -151,15 +175,111 @@
 -'  2  0  ~/tests/demoCsize/code2.py
 |4,39,2,0,1762267961,"~/tests/demoCsize/code2.py"
 -'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267961,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267961,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267961,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267961,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267961,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267961,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267936,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267936,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267936,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
 |4,39,2,0,1762267936,"~/tests/demoCsize/code2.py"
 -'  1  2  ~/tests/demoCsize/code2.py
 |4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
 -'  1  2  ~/tests/demoCsize/code2.py
 |4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
 -'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267915,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267912,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267912,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
+|4,39,1,2,1762267912,"~/tests/demoCsize/code2.py"
+-'  1  2  ~/tests/demoCsize/code2.py
 |4,39,1,2,1762267912,"~/tests/demoCsize/code2.py"
 -'  1  20  ~/tests/demoCsize/code2.py
 |4,39,1,20,1762267890,"~/tests/demoCsize/code2.py"
+-'  1  20  ~/tests/demoCsize/code2.py
+|4,39,1,20,1762267890,"~/tests/demoCsize/code2.py"
+-'  1  20  ~/tests/demoCsize/code2.py
+|4,39,1,20,1762267890,"~/tests/demoCsize/code2.py"
+-'  1  20  ~/tests/demoCsize/code2.py
+|4,39,1,20,1762267890,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  4  0  ~/tests/demoCsize/code2.py
+|4,39,4,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
 -'  3  0  ~/tests/demoCsize/code2.py
 |4,39,3,0,1762267851,"~/tests/demoCsize/code2.py"
 -'  4  0  ~/tests/demoCsize/code2.py
@@ -184,6 +304,24 @@
 |4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
 -'  2  0  ~/tests/demoCsize/code2.py
 |4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  3  0  ~/tests/demoCsize/code2.py
+|4,39,3,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
+-'  2  0  ~/tests/demoCsize/code2.py
+|4,39,2,0,1762267814,"~/tests/demoCsize/code2.py"
 -'  7  24  ~/tests/demoCsize/code2.py
 |4,39,7,24,1762267807,"~/tests/demoCsize/code2.py"
 -'  6  24  ~/tests/demoCsize/code2.py
@@ -202,146 +340,15 @@
 |4,39,8,24,1762267807,"~/tests/demoCsize/code2.py"
 -'  7  24  ~/tests/demoCsize/code2.py
 |4,39,7,24,1762267807,"~/tests/demoCsize/code2.py"
--'  9  24  ~/tests/demoCsize/code2.py
-|4,39,9,24,1762267807,"~/tests/demoCsize/code2.py"
--'  8  24  ~/tests/demoCsize/code2.py
-|4,39,8,24,1762267807,"~/tests/demoCsize/code2.py"
--'  8  24  ~/tests/demoCsize/code2.py
-|4,39,8,24,1762267807,"~/tests/demoCsize/code2.py"
--'  7  24  ~/tests/demoCsize/code2.py
-|4,39,7,24,1762267807,"~/tests/demoCsize/code2.py"
--'  8  24  ~/tests/demoCsize/code2.py
-|4,39,8,24,1762267807,"~/tests/demoCsize/code2.py"
--'  7  24  ~/tests/demoCsize/code2.py
-|4,39,7,24,1762267807,"~/tests/demoCsize/code2.py"
--'  7  24  ~/tests/demoCsize/code2.py
-|4,39,7,24,1762267765,"~/tests/demoCsize/code2.py"
--'  20  15  ~/tests/demoCsize/code2.py
-|4,39,20,15,1762267755,"~/tests/demoCsize/code2.py"
--'  19  15  ~/tests/demoCsize/code2.py
-|4,39,19,15,1762267755,"~/tests/demoCsize/code2.py"
--'  18  15  ~/tests/demoCsize/code2.py
-|4,39,18,15,1762267755,"~/tests/demoCsize/code2.py"
--'  21  15  ~/tests/demoCsize/code2.py
-|4,39,21,15,1762267755,"~/tests/demoCsize/code2.py"
--'  20  15  ~/tests/demoCsize/code2.py
-|4,39,20,15,1762267755,"~/tests/demoCsize/code2.py"
--'  19  15  ~/tests/demoCsize/code2.py
-|4,39,19,15,1762267755,"~/tests/demoCsize/code2.py"
--'  18  15  ~/tests/demoCsize/code2.py
-|4,39,18,15,1762267755,"~/tests/demoCsize/code2.py"
--'  21  15  ~/tests/demoCsize/code2.py
-|4,39,21,15,1762267755,"~/tests/demoCsize/code2.py"
--'  20  15  ~/tests/demoCsize/code2.py
-|4,39,20,15,1762267755,"~/tests/demoCsize/code2.py"
--'  19  15  ~/tests/demoCsize/code2.py
-|4,39,19,15,1762267755,"~/tests/demoCsize/code2.py"
--'  21  15  ~/tests/demoCsize/code2.py
-|4,39,21,15,1762267755,"~/tests/demoCsize/code2.py"
--'  20  15  ~/tests/demoCsize/code2.py
-|4,39,20,15,1762267755,"~/tests/demoCsize/code2.py"
--'  20  15  ~/tests/demoCsize/code2.py
-|4,39,20,15,1762267755,"~/tests/demoCsize/code2.py"
--'  19  15  ~/tests/demoCsize/code2.py
-|4,39,19,15,1762267755,"~/tests/demoCsize/code2.py"
--'  20  15  ~/tests/demoCsize/code2.py
-|4,39,20,15,1762267755,"~/tests/demoCsize/code2.py"
--'  19  15  ~/tests/demoCsize/code2.py
-|4,39,19,15,1762267755,"~/tests/demoCsize/code2.py"
--'  19  15  ~/tests/demoCsize/code2.py
-|4,39,19,15,1762267755,"~/tests/demoCsize/code2.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
--'  5  16  ~/tests/demoCsize/code.py
-|4,39,5,16,1762267745,"~/tests/demoCsize/code.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1762406209	0
+	"	18	42
+	^	1	5
+	.	2	0
+	+	2	0
 
 > ~/tests/demoCsize/code2.py
 	*	1762268083	0

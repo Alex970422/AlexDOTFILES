@@ -1,0 +1,40 @@
+[1]
+Active=1
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":3}]}]
+
+[Number]
+NumberOfSessions=3
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={a88c76d8-fc16-41bb-b225-dd00e0304810}
+TabColor=
+WorkingDir[$e]=$HOME/tests
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={5ce44a6c-cea9-48db-a75a-d98444376e2b}
+TabColor=
+WorkingDir[$e]=$HOME/tests/PipingHW
+
+[Session3]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={56a88599-986d-4c33-939e-72933b31463c}
+TabColor=
+WorkingDir[$e]=$HOME/tests/PipingHW
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+ToolBarsMovable=Disabled
