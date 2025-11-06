@@ -2,21 +2,15 @@
 count=0
 
 [Session: saved at previous logout]
-clientId1=10145dbd1dd000172745736300000006240004
-clientId2=10145dbd1dd000172728215200000006260008
-clientId3=10145dbd1dd000172727855700000006260006
-count=3
-discardCommand2[$e]=rm,$HOME/.config/session/systemsettings_10145dbd1dd000172728215200000006260008_1727457590_211681
-discardCommand3[$e]=rm,$HOME/.config/session/konsole_10145dbd1dd000172727855700000006260006_1727457590_210721
+clientId1=10145dbd1dd000176160298700000006290004
+clientId2=10145dbd1dd000175971934500000006040006
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/konsole_10145dbd1dd000175971934500000006040006_1761606229_4256
 program1=/usr/lib/DiscoverNotifier
-program2=/usr/bin/systemsettings
-program3=/usr/bin/konsole
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000172745736300000006240004_1727457590_210670
-restartCommand2=/usr/bin/systemsettings,-session,10145dbd1dd000172728215200000006260008_1727457590_211681
-restartCommand3=/usr/bin/konsole,-session,10145dbd1dd000172727855700000006260006_1727457590_210721
+program2=/usr/bin/konsole
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10145dbd1dd000176160298700000006290004_1761606229_4098
+restartCommand2=/usr/bin/konsole,-session,10145dbd1dd000175971934500000006040006_1761606229_4256
 restartStyleHint1=0
 restartStyleHint2=0
-restartStyleHint3=0
 userId1=alex
 userId2=alex
-userId3=alex

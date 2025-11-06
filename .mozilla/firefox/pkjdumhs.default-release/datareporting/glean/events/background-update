@@ -1,2 +1,0 @@
-{"timestamp":48575,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","experiment":"long-term-holdback-2025h1-growth-desktop","glean_timestamp":"1756851625841","branch":"delivery"}}
-{"timestamp":48601,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"mozilla-vpn-in-private-browsing-treatment-d-rollout-en-only","glean_timestamp":"1756851625867","experiment_type":"rollout","branch":"treatment-d"}}

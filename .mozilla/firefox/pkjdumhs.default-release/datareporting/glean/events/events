@@ -1,4 +1,2 @@
-{"timestamp":47539,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1756851624806"}}
-{"timestamp":48575,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"nimbus","experiment":"long-term-holdback-2025h1-growth-desktop","glean_timestamp":"1756851625841","branch":"delivery"}}
-{"timestamp":48601,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"mozilla-vpn-in-private-browsing-treatment-d-rollout-en-only","glean_timestamp":"1756851625867","experiment_type":"rollout","branch":"treatment-d"}}
-{"timestamp":48745,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1756851626011"}}
+{"timestamp":1386863,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1758505932639"}}
+{"timestamp":1387637,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1758505933413"}}

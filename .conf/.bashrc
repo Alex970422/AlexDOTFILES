@@ -31,7 +31,8 @@ else
 PS1= '\u@\h:\W\$ '
 fi
 
-
+export PATH="/$HOME/alex/bin:$PATH"
 
 fastfetch
+
 

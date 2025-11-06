@@ -50,4 +50,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2025-09-22T01:44:44.566000Z" modified="2025-09-22T01:44:44.566000Z" visited="2025-09-22T01:44:44.566000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2025-09-22T01:44:44.566000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.gnome.gedit.desktop" added="2025-09-22T01:47:22.771000Z" modified="2025-09-22T01:47:22.771000Z" visited="2025-09-22T01:47:22.771000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2025-09-22T01:47:22.771000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://code-oss.desktop" added="2025-10-07T12:21:50.628000Z" modified="2025-10-07T12:21:50.628000Z" visited="2025-10-07T12:21:50.628000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2025-10-07T12:21:50.628000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

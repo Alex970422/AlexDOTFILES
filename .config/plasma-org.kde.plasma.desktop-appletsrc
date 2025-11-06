@@ -64,7 +64,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=60
+PreloadWeight=65
 SystrayContainmentId=8
 
 [Containments][2][General]
@@ -89,6 +89,9 @@ plugin=org.kde.plasma.cameraindicator
 immutability=1
 plugin=org.kde.plasma.volume
 
+[Containments][8][Applets][11][Configuration]
+PreloadWeight=55
+
 [Containments][8][Applets][11][Configuration][General]
 migrated=true
 
@@ -97,7 +100,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][12][Configuration]
-PreloadWeight=60
+PreloadWeight=65
 
 [Containments][8][Applets][13]
 immutability=1
@@ -131,12 +134,22 @@ plugin=org.kde.plasma.vault
 immutability=1
 plugin=org.kde.plasma.brightness
 
+[Containments][8][Applets][22][Configuration]
+PreloadWeight=42
+
 [Containments][8][Applets][23]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][23][Configuration]
-PreloadWeight=55
+PreloadWeight=47
+
+[Containments][8][Applets][24]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
+
+[Containments][8][Applets][24][Configuration]
+PreloadWeight=42
 
 [Containments][8][Applets][9]
 immutability=1

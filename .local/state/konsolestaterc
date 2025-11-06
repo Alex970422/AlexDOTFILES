@@ -1,7 +1,6 @@
 [MainWindow]
 1280x800 screen: Height=468
 1280x800 screen: Width=911
-1280x800 screen: Window-Maximized=true
 1280x800 screen: XPosition=184
 1280x800 screen: YPosition=157
 RestorePositionForNextInstance=false
